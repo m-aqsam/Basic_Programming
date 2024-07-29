@@ -1,6 +1,7 @@
-# basic_programming
+# Basic_Programming
 
-A new Flutter project.
+A new Repo for basic to advance programming concept . 
+in which i will revise basic programming concept , OOP , DSA and Related Problems.
 
 ## Getting Started
 
