@@ -9,6 +9,7 @@ void main() {
   // Almost basics have been learnt
   // tomorrow finish OOP and then start DSA
   // => Start State Management 1/08
+  // Lets Dive into State-Management => Next Dev
 
   print(value);
 }
